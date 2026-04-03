@@ -101,8 +101,4 @@ Qwen3.6-Plus achieves SOTA results across 80+ benchmarks, excelling in both text
 
 ---
 
-### 🔗 Quick Links
-
--   [Full Launch Blog Post](https://qwen.ai) | [API Documentation](https://aliyun.com) | [Follow us on X (Twitter)](https://twitter.com)
-
 © 2026 Alibaba Cloud.
